@@ -1,0 +1,10 @@
+[package]
+name = "scrappy"
+version = "0.1.0"
+authors = ["Edvinas <edvinas.kurmanavicius@gmail.com>"]
+
+[dependencies]
+
+[[test]]
+name = "tests"
+harness = true
